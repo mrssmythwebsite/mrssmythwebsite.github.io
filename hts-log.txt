@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 18 Nov 2020 18:13:14 at https://olliebutt03.wixsite.com/mrssmyth +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://olliebutt03.wixsite.com/mrssmyth -O1 "C:\My Web Sites\ms" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:13:23	Error: 	"Not Found" (404) at link https://olliebutt03.wixsite.com/mrssmyth/decodeURIComponent(e (from https://olliebutt03.wixsite.com/mrssmyth)
+18:13:23	Error: 	"Not Found" (404) at link https://olliebutt03.wixsite.com/mrssmyth/https: (from https://olliebutt03.wixsite.com/mrssmyth)
+18:13:23	Error: 	"Not Found" (404) at link https://olliebutt03.wixsite.com/mrssmyth/robots.txt (from https://olliebutt03.wixsite.com/mrssmyth)
+18:13:23	Error: 	"Not Found" (404) at link https://olliebutt03.wixsite.com/mrssmyth/feed.xml (from https://olliebutt03.wixsite.com/mrssmyth)
+18:13:23	Error: 	"Not Found" (404) at link https://olliebutt03.wixsite.com/mrssmyth/$&/ (from https://olliebutt03.wixsite.com/mrssmyth)
+18:13:23	Error: 	"Forbidden" (403) at link https://olliebutt03.wixsite.com/_partials/ (from https://olliebutt03.wixsite.com/mrssmyth)
+18:13:23	Error: 	"Not Found" (404) at link https://olliebutt03.wixsite.com/ (from https://olliebutt03.wixsite.com/mrssmyth)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 47 links scanned, 39 files written (1964397 bytes overall) [594194 bytes received at 45707 bytes/sec], 1981603 bytes transferred using HTTP compression in 44 files, ratio 27%, 7.8 requests per connection
+(7 errors, 0 warnings, 0 messages)
