@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-olliebutt03.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1605723197|__DYih82Ykrv
-olliebutt03.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
-olliebutt03.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=euw2"
-
